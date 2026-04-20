@@ -1,6 +1,8 @@
 name = input("이름: ")
 student_id = input("학번: ")
 subject = input("과목: ")
+school = input("학교: ")
 print(f"이름: {name}")
 print(f"학번: {student_id}")
 print(f"과목: {subject}")
+print(f"학교: {school}")
